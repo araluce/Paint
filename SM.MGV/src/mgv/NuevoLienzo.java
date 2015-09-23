@@ -7,7 +7,7 @@ package mgv;
 
 /**
  * Vista de la ventana NuevoLienzo
- * @author miguelangel
+ * @author araluce
  */
 public class NuevoLienzo extends javax.swing.JDialog {
 

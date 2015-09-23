@@ -19,7 +19,7 @@ import javax.media.util.BufferToImage;
 
 /**
  * Reproduce vídeo y audio
- * @author miguelangel
+ * @author araluce
  */
 public class VentanaInternaJMFPlayer extends javax.swing.JInternalFrame {
     //Variable que contendrá el medio

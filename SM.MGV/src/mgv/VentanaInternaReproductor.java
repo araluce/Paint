@@ -11,7 +11,7 @@ import sm.sound.SMPlayer;
 
 /**
  * Reproduce audio
- * @author miguelangel
+ * @author araluce
  */
 public class VentanaInternaReproductor extends javax.swing.JInternalFrame {
     //Variable que contendrá el medio

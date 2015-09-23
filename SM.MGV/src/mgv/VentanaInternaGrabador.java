@@ -10,7 +10,7 @@ import sm.sound.SMSoundPlayerRecorder;
 
 /**
  * Graba y guarda un audio
- * @author miguelangel
+ * @author araluce
  */
 public class VentanaInternaGrabador extends javax.swing.JInternalFrame {
     //Variable que contendrá el medio

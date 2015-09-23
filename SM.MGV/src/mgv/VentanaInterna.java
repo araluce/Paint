@@ -9,7 +9,7 @@ import javax.swing.JPanel;
 
 /**
  * Contiene un lienzo donde se dibujarán las formas e imagenes
- * @author miguelangel
+ * @author araluce
  */
 public class VentanaInterna extends javax.swing.JInternalFrame {
 

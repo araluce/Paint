@@ -7,7 +7,7 @@ package mgv;
 
 /**
  * Vista de la ventana de Acerca de...
- * @author miguelangel
+ * @author araluce
  */
 public class VentanaAcercaDe extends javax.swing.JFrame {
 

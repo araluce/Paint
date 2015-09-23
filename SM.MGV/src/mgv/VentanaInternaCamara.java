@@ -27,7 +27,7 @@ import javax.swing.JOptionPane;
 
 /**
  * Frame donde se mostrará el vídeo de la web cam
- * @author miguelangel
+ * @author araluce
  */
 public class VentanaInternaCamara extends javax.swing.JInternalFrame {
     //Variable que contendrá el medio
