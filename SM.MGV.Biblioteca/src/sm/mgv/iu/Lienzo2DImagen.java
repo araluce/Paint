@@ -28,7 +28,7 @@ import sm.image.ThresholdOp;
 
 /**
  * Panel en el que se dibujan formas e imágenes
- * @author miguelangel
+ * @author araluce
  */
 public class Lienzo2DImagen extends Lienzo2D{
     //Variable que contendrá el conjunto de formas

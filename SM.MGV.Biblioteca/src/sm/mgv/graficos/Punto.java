@@ -22,7 +22,7 @@ import java.awt.geom.RectangularShape;
 
 /**
  * Clase que gestiona la forma Punto
- * @author miguelangel
+ * @author araluce
  */
 public class Punto extends Figura {
     //Variable que contendrá la forma

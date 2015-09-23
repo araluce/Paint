@@ -10,7 +10,7 @@ import java.awt.image.BufferedImage;
 
 /**
  *
- * @author araluce1
+ * @author araluce
  */
 public class Umbralizacion{
     

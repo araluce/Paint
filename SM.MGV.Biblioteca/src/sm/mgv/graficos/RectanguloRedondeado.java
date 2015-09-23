@@ -20,7 +20,7 @@ import java.awt.geom.RoundRectangle2D;
 
 
 /**
- * @author Pablo Torrecillas Ortega
+ * @author araluce
  * Permite el manejo de una figura de tipo rectángulo redondeado
  */
 public class RectanguloRedondeado extends Figura{

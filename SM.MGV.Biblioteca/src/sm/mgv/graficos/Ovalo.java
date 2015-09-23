@@ -23,7 +23,7 @@ import java.awt.geom.RectangularShape;
 
 /**
  * Clase que gestiona la forma Ovalo
- * @author miguelangel
+ * @author araluce
  */
 public class Ovalo extends Figura{
     //Variable que contendrá la forma

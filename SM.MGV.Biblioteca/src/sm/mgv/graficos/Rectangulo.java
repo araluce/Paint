@@ -21,8 +21,8 @@ import java.awt.geom.Rectangle2D;
 import java.awt.geom.RectangularShape;
 
 /**
- * Clase que gestiona la forma Rectangulo
- * @author miguelangel
+ * Clase que gestiona la forma Rectángulo
+ * @author araluce
  */
 public class Rectangulo extends Figura{
     //Variable que contendrá la forma

@@ -20,7 +20,7 @@ import sm.mgv.graficos.RectanguloRedondeado;
 
 /**
  * Panel en el que se dibujan las formas
- * @author miguelangel
+ * @author araluce
  */
 public class Lienzo2D extends javax.swing.JPanel {
 

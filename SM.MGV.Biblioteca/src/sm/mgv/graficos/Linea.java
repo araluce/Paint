@@ -20,7 +20,7 @@ import java.awt.geom.Rectangle2D;
 
 /**
  * Clase que gestiona la forma línea
- * @author miguelangel
+ * @author araluce
  */
 public class Linea extends Figura{
     //Variable que contendrá la forma

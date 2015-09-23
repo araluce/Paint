@@ -16,7 +16,7 @@ import java.awt.geom.Rectangle2D;
 import sm.mgv.iu.Figura;
 
 /**
- * @author Pablo Torrecillas Ortega
+ * @author araluce
  * Esta clase permite la creación de una línea curva con un punto de control
  */
 public class LineaCurva extends Figura{

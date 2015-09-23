@@ -17,7 +17,7 @@ import java.awt.geom.Rectangle2D;
 
 /**
  * Clase que permite crear figuras y controlarlas de una forma más fácil
- * @author miguelangel
+ * @author araluce
  */
 public abstract class Figura implements Shape{
     //Puntos inicial y final
